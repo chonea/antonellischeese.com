@@ -1,0 +1,24 @@
+name = Antonelli's Cheese Shop
+description = By Redglue, Inc.
+screenshot = screenshot.png
+package = Core
+version = VERSION
+core = 7.x
+engine = phptemplate
+
+regions[header] = Header
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+regions[highlighted] = Highlighted
+regions[featured] = Featured
+regions[content] = Content
+regions[footer] = Footer
+
+stylesheets[all][] = css/MyFontsWebfontsOrderM3313379.css
+stylesheets[all][] = ../../js/video-js/video-js.css
+stylesheets[all][] = ../../js/video-js/skins/antonellis.css
+stylesheets[all][] = css/style.css
+stylesheets[print][] = css/print.css
+
+settings[shortcut_module_link] = 0

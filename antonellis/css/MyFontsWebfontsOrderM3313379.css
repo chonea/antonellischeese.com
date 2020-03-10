@@ -1,0 +1,26 @@
+/* @license
+ * MyFonts Webfont Build ID 1534786, 2011-11-16T17:31:32-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: P22 FLLW Midway One by P22
+ * URL: http://www.myfonts.com/fonts/p22/fllw-midway/one/
+ * Copyright: &#x00A9; 2007 by P22 type foundry, Inc./The Frank Lloyd Wright Foundation. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=1534786
+ * 
+ * © 2011 Bitstream Inc
+*/
+
+
+@font-face {
+	font-family: 'P22FLLWMidway-One';
+	src: url('../webfonts/176B42_0.eot');
+	src: url('../webfonts/176B42_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/176B42_0.woff') format('woff'),url('../webfonts/176B42_0.ttf') format('truetype');
+}
